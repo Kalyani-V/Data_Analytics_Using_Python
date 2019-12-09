@@ -33,4 +33,3 @@ There are three graphs plotted
 Scatter Chart - Customer Transaction History(Yearly)
 Line graph- Showing the ending balance with the increasing year
 Bar chart – Showing the ratio between principal and interest. 
-
