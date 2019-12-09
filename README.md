@@ -1,12 +1,12 @@
 ## Loan Evaluation
-### Banking transactions of existing few bank customers are taken into consideration.
-### Following evaluations are performed before applying for loan such as-
-### Account is present in existing customer list or not. If not, then need to open an account.
-### Age should be less than 60.
-### Credit score should be greater than 5.
-### Occupation should not be ‘NA’
-### Last 3 transactions of the customer should be greater than or equal to atleast initial amount(i.e. $7000)
-### If the above conditions are satisfied then the customer is eligible for loan.
+###### Banking transactions of existing few bank customers are taken into consideration.
+###### Following evaluations are performed before applying for loan such as-
+###### Account is present in existing customer list or not. If not, then need to open an account.
+###### Age should be less than 60.
+###### Credit score should be greater than 5.
+###### Occupation should not be ‘NA’
+###### Last 3 transactions of the customer should be greater than or equal to atleast initial amount(i.e. $7000)
+###### If the above conditions are satisfied then the customer is eligible for loan.
 
 ## Loan Amortization
 ### When the customer is eligible for loan, amortization has its condition such as-
